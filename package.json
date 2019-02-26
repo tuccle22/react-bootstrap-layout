@@ -1,7 +1,7 @@
 {
   "name": "react-bootstrap-layout",
   "version": "1.0.0",
-  "description": "Bootstraps container, row, column built in react",
+  "description": "Bootstrap's container, row, column built in react",
   "author": "tuccle22",
   "license": "MIT",
   "repository": "tuccle22/react-bootstrap-layout",
@@ -57,5 +57,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "classnames": "^2.2.6"
+  }
 }
